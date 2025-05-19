@@ -26,7 +26,7 @@ Visualização dos principais indicadores logísticos da operação, incluindo t
 
 Acompanhamento estratégico do processo de importação, com análise de fornecedores internacionais, prazos de envio, custos logísticos, volume importado por categoria e status dos pedidos.
 
-🎥 [Clique aqui para assistir ao vídeo](./BI-Importacao.mp4)
+🎥 [Clique aqui para assistir ao vídeo](./BI-Importação.mp4)
 
 ---
 
