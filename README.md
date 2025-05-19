@@ -10,7 +10,7 @@ Este repositório apresenta três dashboards desenvolvidos em Power BI, com foco
 Dashboard desenvolvido para análise de desempenho em marketplaces como Mercado Livre, Magalu e Via Varejo.  
 Inclui métricas como volume de vendas por canal, receita por categoria de produto, taxa de conversão e evolução mensal.
 
-🎥 [Clique aqui para assistir ao vídeo](./dashboards/dashboard-vendas.mp4)
+🎥 [Clique aqui para assistir ao vídeo](./BI-Vendas.mp4)
 
 ---
 
