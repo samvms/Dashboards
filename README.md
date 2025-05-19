@@ -18,7 +18,7 @@ Inclui métricas como volume de vendas por canal, receita por categoria de produ
 
 Visualização dos principais indicadores logísticos da operação, incluindo tempo médio de entrega, índice de devoluções, volume por transportadora e status de atendimento ao SLA.
 
-🎥 [Clique aqui para assistir ao vídeo](./dashboards/dashboard-logistica.mp4)
+🎥 [Clique aqui para assistir ao vídeo](./BI-Logistica.mp4)
 
 ---
 
@@ -26,7 +26,7 @@ Visualização dos principais indicadores logísticos da operação, incluindo t
 
 Acompanhamento estratégico do processo de importação, com análise de fornecedores internacionais, prazos de envio, custos logísticos, volume importado por categoria e status dos pedidos.
 
-🎥 [Clique aqui para assistir ao vídeo](./dashboards/dashboard-importacao.mp4)
+🎥 [Clique aqui para assistir ao vídeo](./BI-Importacao.mp4)
 
 ---
 
